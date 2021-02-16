@@ -1,2 +1,2 @@
-# Linked List
+# LinkedList
 Practice linked list in C++.
